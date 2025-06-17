@@ -17,7 +17,7 @@ By completing this project, I will:
 -Version Control: Git and GitHub
 -Design Tools: Figma for UI/UX design
 
-4-Figma Design Specifications
+4-UI/UX Design Planning (Figma Design Specifications):
 
 - Color Styles:
 
